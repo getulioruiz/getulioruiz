@@ -1,9 +1,11 @@
 name: Update badges
 
 on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
   schedule:
     # Runs at 0am UTC every day
-    - cron: "* * * * *"
+    - cron: "0 0 1 * *"
 jobs:
   update-readme:
     name: Update Readme with badges
