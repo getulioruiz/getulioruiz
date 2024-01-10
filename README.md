@@ -22,3 +22,8 @@ I'm a Site Reliability Engineer (SRE), DevOps enthusiast, and Backend Developer 
 - Enhancing skills in Go programming language
 - Staying updated on the latest DevOps and SRE best practices
 
+## 📫 Let's Connect!
+<a href="https://www.linkedin.com/in/getulioruiz/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
