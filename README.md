@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**getulioruiz/getulioruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Get 👋
+I'm a Site Reliability Engineer (SRE), DevOps enthusiast, and Backend Developer with 10+ years of experience. I love building scalable infrastructure, automating processes, and optimizing performance.
 
-Here are some ideas to get you started:
+<p align="center">
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kubernetes,terraform,docker,aws,gcp,githubactions,git,go,java,py,grafana,prometheus&perline=6" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+## 🌱 I’m currently learning
+
+- Exploring serverless architectures
+- Enhancing skills in Go programming language
+- Staying updated on the latest DevOps and SRE best practices
