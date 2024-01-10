@@ -1,5 +1,4 @@
-
-[![Update badges](https://github.com/getulioruiz/getulioruiz/actions/workflows/update-badges.yaml/badge.svg?branch=main)](https://github.com/getulioruiz/getulioruiz/actions/workflows/update-badges.yaml)
+[![Update badges](https://github.com/getulioruiz/getulioruiz/actions/workflows/update-badges.yml/badge.svg?branch=main)](https://github.com/getulioruiz/getulioruiz/actions/workflows/update-badges.yml)
 
 
 # Hi there, I'm Get 👋
