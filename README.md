@@ -6,7 +6,7 @@ I'm a Site Reliability Engineer, DevOps enthusiast, and Backend Developer with 1
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,terraform,docker,aws,gcp,githubactions,git,go,java,py,grafana,prometheus" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,terraform,docker,aws,gcp,githubactions,git,go,java,py,linux,grafana,prometheus" />
   </a>
 </p>
 
