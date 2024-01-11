@@ -16,6 +16,10 @@ I'm a Site Reliability Engineer, DevOps enthusiast, and Backend Developer with 1
 [![HashiCorp Certified: Terraform Associate (002)](https://images.credly.com/size/110x110/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)](http://www.credly.com/badges/c3022fb4-1ea0-4b23-bbed-4b8a87a66de8 "HashiCorp Certified: Terraform Associate (002)")
 <!--END_SECTION:badges-->
 
+## 🌱 I’m currently learning
+- Enhancing skills in Go programming language
+- Staying updated on the latest DevOps and SRE best practices
+
 ## 📫 Let's Connect!
 <a href="https://www.linkedin.com/in/getulioruiz/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
