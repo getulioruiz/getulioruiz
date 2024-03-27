@@ -1,5 +1,5 @@
 # Hi there, I'm Get 👋
-I'm a Site Reliability Engineer, DevOps enthusiast, and Backend Developer with 10+ years of experience. I love building scalable infrastructure, automating processes, and optimizing performance.
+I'm a Site Reliability Engineer, DevOps enthusiast, and Backend Developer. I love building scalable infrastructure, automating processes, and optimizing performance.
 
 <p align="left">
   <a href="https://skillicons.dev">
